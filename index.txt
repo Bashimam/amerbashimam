@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Amer Bashimam CV</title>
+</head>
+<body>
+<div>
+<h1>AMER<br>BASHIMAM</h1>
+<h3>Software Product Manager</h3>
+</div>
+<div>
+<h2>PROFESSIONAL PROFILE</h2>
+<p>Skilled Product Manager with more than 2 years
+experience coordinating, planning, and supporting
+daily operational and weekly sprints releases.</p>
+</div>
+<div>
+<h2>CONTACT DETAILS</h2>
+<ul>
+<li><p>Mobile: +90 545 726 7557</p></li>
+<li><address>Yakcık Mah, Kızlarpınarı Cad,  Apt 87/2 Kecioren Ankara</address></li>
+<li><a href="mailto:amerbashimam@gmail.com">Email</a></li>
+<li><p>Mobile: +90 545 726 7557</p></li>
+</ul>
+</div>
+<div>
+<h2>QUALIFICATIONS</h2>
+<ul>
+<li><p>Software Product Management Specialization,Coursera & Univercity of Alberta, 2020</p></li>
+<li><p>Agile with Atlassian Jira, Coursera & Atlassian,2020</p></li>
+<li><p>Klink Destek Elemanı, TCESIS, 2019</p></li>
+<li><p>Satış ve Tanıtım Elemanı– TCESIS 2019</p></li>
+<li><p>GRE Quantative Score:153 ,2017</p></li>
+<li><p>Solidworks Essential Training, Linkedin 2018</p></li>
+<li><p>Additive Manufacturing Optimizing 3d Prints, Linkedin 2018</p></li>
+</ul>
+</div>
+<div>
+<h2>SKILLS AND ABILITIES</h2>
+<ul>
+<li><p>Most experienced with JIRA, Scrum, CRM, GSuite.</p></li>
+<li><p>Worked on several school projccts with MATLAB and Solidworks.</p></li>
+<li><p>Basic knowledge in HTML5,CSS,Arduino, MySQL workbench, MakerBot, MeshMixer.</p></li>
+</ul>
+</div>
+<div>
+<h2>LANGUAGES</h2>
+<ul>
+<li><p>Arabic: Native</p></li>
+<li><p>English: IELTS: 8 (L: 9, R: 9, W: 7, S: 6.5), EYDS 85</p></li>
+<li><p>Turkish: Intermediate</p></li>
+</ul>
+</div>
+<div>
+<h2>WORK EXPERIENCE</h2>
+<h4>Product Manager</h4>
+<h5>EnglishCentral  2017 – present</h5>
+<ul>
+<li><p>Planning releases and sprints</p></li>
+<li><p>Learning Management System of EnglishCentral</p></li>
+<li><p>Vocabulary builder of EnglishCentral</p></li>
+<li><p>EnglishCentral site as Progressive Web App</p></li>
+<li><p>QA testing</p></li>
+<li><p>Sales and customer support</p></li>
+</ul>
+<h4>Assistant</h4>
+<h5>New Turkey Strategic Research Center  Jul-Sep 2017</h5>
+<ul>
+<li><p>Assisted in preparing for the next issue of Jornal of Yeni Turkiye which was devoted to Muslim world.</p></li>
+<li><p>Search for academic and research institutions around the Muslim world.</p></li>
+</ul>
+<h4>Intern</h4>
+<h5>Near East Universıty Hospital Jun - Sep 2014</h5>
+<ul>
+<li><p>Provided technical support to hospital staf.</p></li>
+<li><p>Daily visits to hospital departments.</p></li>
+</ul>
+<h4>Event Assistant</h4>
+<h5>OIC International Business Centre Jul - Sep 2013</h5>
+<ul>
+<li><p>Assisted in organization & coordination of 4th Muslim world Biz.</p></li>
+<li><p>Managed Seminars area.</p></li>
+<li><p>Worked in invitations of delegates and participants.</p></li>
+</ul>
+</div>
+<div>
+<h2>PREVIOUS EDUCATION</h2>
+<h4>Near East University</h4>
+<h5>Bachelor of BioMedical Engineering, Class of 2016</h5>
+<p>Graduated top of class with CGPA 3.51/4<br>Honor student for 3 years</p>
+</div>
+</body>
+</html>
