@@ -1,10 +1,10 @@
-h1{font-size: 20pt; font-family: "Times New Roman";}
-h2{font-size: 16pt; font-family: Cambria;}
-h4{font-size: 14pt; font-family:"Lucida Bright";}
-summary{font-size: 12pt; font-family: Didot;font-style: bold;}
-h5{font-size: 12pt; font-family: Didot;}
-p{font-size: 12pt; font-family: Helvetica; width: 75%}
-address{font-size: 12pt; font-family: Helvetica;}
-a{font-size: 12pt; font-family: Helvetica;}
-img{display: block; float:right;margin-right: 10pt}
-ul{font-size: 12pt; font-family: Helvetica;}
+h1{font-size: 4em; font-family: "Times New Roman";}
+h2{font-size: 2em; font-family: Cambria;}
+h4{font-size: 1.2em; font-family:"Lucida Bright";}
+summary{font-size: 1em; font-family: Didot;font-style: bold;}
+h5{font-size:1em; font-family: Didot;}
+p{font-size: 1em; font-family: Helvetica; width: 75%}
+address{font-size: 1em; font-family: Helvetica;}
+a{font-size: 1em; font-family: Helvetica;}
+img{display: block; float:right;margin-right: 1em}
+li{font-size: 1em; font-family: Helvetica;}
