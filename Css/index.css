@@ -1,0 +1,9 @@
+h1{font-size: 24pt; font-family: "Times New Roman";}
+h2{font-size: 18pt; font-family: Cambria;}
+h4{font-size: 16pt; font-family:"Lucida Bright";}
+summary{font-size: 14pt; font-family: Didot;font-style: bold;}
+h5{font-size: 14pt; font-family: Didot;}
+p{font-size: 100%; font-family: Helvetica; width: 75%}
+address{font-size: 12pt; font-family: Helvetica;}
+a{font-size: 12pt; font-family: Helvetica;}
+img{display: block; float:right;margin-right: 10pt}
